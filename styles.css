@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: #cccccc;
+}
+
+header{
+    background-color: #120323;
+}
+
+nav, footer{
+    background-color: #d9043d;
+}
+
+h1{
+    color: #97bf04;
+}
+
+main img{
+    border-bottom: 10px solid #97bf04;
+}
+
